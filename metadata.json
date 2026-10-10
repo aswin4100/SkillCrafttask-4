@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow - To-Do & Task Management Dashboard",
+  "description": "A professional, responsive To-Do application featuring custom lists, due dates and time, priority filters, statistics, dark/light theme, and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
